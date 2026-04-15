@@ -20,6 +20,18 @@ Project ini adalah aplikasi berbasis Python untuk:
 - Pandas
 - Matplotlib
 
-## Contoh Output
-![Grafik Umur](grafik_umur.png)
-![Grafik Kota](grafik_kota.png)
+## 📊 Insight
+
+Dari data yang dianalisis:
+
+- Kota dengan jumlah terbanyak: Jakarta
+- Distribusi umur menunjukkan mayoritas di rentang 20–40 tahun
+
+## 📈 Visualisasi
+
+[Grafik Kota](Grafik kota.png)
+
+## 🎯 Tujuan Project
+
+Membuat tools sederhana untuk analisis data berbasis CLI menggunakan Python.
+
