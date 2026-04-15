@@ -110,7 +110,7 @@ def grafik_kota(df):
     plt.xticks(rotation=45)
     plt.tight_layout()
 
-    plt.savefig("output/Grafik-Kota.png")
+    plt.savefig("Grafik Kota.png")
     print("Grafik disimpan sebagai Grafik Kota.png")
 
 # Fitur 8
@@ -128,9 +128,9 @@ def grafik_umur(df):
 
     plt.tight_layout()
     
-    plt.savefig("output/Grafik-Umur")
+    plt.savefig("Grafik Umur")
     print("Grafik disimpan sebagai Grafik Umur.png")
-
+    
 # Menu
 def menu():
     print("\n=== MENU ===")
