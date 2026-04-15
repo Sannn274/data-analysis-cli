@@ -1,25 +1,94 @@
-# Data Analysis CLI Tool
+# 📊 Data Analysis CLI Tool
 
-Project ini adalah aplikasi berbasis Python untuk:
-- Load data CSV
-- Filtering data
-- Statistik data
-- Analisis sederhana
-- Visualisasi data
+A Python-based CLI application for performing basic data analysis, filtering, and visualization on CSV datasets.
 
-## Fitur
-- Filter umur
-- Pencarian nama
-- Statistik (mean, max, min)
-- Analisis kota terbanyak
-- Grafik distribusi umur
-- Grafik jumlah per kota
+---
 
-## Tools
-- Python
-- Pandas
-- Matplotlib
+## 🎯 Project Objective
 
-## Contoh Output
-![Grafik Umur](grafik_umur.png)
-![Grafik Kota](grafik_kota.png)
+This project was built to simulate a simple data analysis workflow:
+
+* Load dataset dynamically
+* Clean and filter data
+* Perform statistical analysis
+* Generate insights
+* Visualize data
+
+---
+
+## ⚙️ Features
+
+* 📂 Load CSV file dynamically
+* 🔍 Filter data by age
+* 📊 Basic statistics (mean, max, min)
+* 📈 Data visualization:
+
+  * Age distribution (histogram)
+  * City distribution (bar chart)
+* 🧠 Simple insights (most populated city)
+* 💾 Export processed data
+
+---
+
+## 🛠️ Tech Stack
+
+* Python
+* Pandas
+* Matplotlib
+
+---
+
+## 📈 Sample Visualizations
+
+### Age Distribution
+
+![Age Distribution](GrafikUmur.png)
+
+### City Distribution
+
+![City Distribution](GrafikKota.png)
+
+---
+
+## 🧠 Insights
+
+From the dataset:
+
+* The majority of individuals are within the age range of 20–40 years
+* Certain cities dominate the dataset distribution
+* Data shows variation in age across different locations
+
+---
+
+## 🚀 How to Run
+
+```bash
+python main2.py
+```
+
+---
+
+## 📁 Project Structure
+
+```
+data-analysis-cli/
+│── main2.py
+│── grafik_umur.png
+│── grafik_kota.png
+│── README.md
+```
+
+---
+
+## 💡 Future Improvements
+
+* Add data cleaning pipeline
+* Integrate SQL database
+* Build dashboard version (Power BI / Streamlit)
+* Convert to Jupyter Notebook for analysis storytelling
+
+---
+
+## 👤 Author
+
+Ihsan — aspiring Data Analyst
