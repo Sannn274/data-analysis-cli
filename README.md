@@ -42,11 +42,11 @@ This project was built to simulate a simple data analysis workflow:
 
 ### Age Distribution
 
-![Age Distribution](GrafikUmur.png)
+![Age Distribution](grafik-umur.png)
 
 ### City Distribution
 
-![City Distribution](GrafikKota.png)
+![City Distribution](grafik-kota.png)
 
 ---
 
@@ -63,7 +63,7 @@ From the dataset:
 ## 🚀 How to Run
 
 ```bash
-python main2.py
+python main.py
 ```
 
 ---
@@ -72,9 +72,9 @@ python main2.py
 
 ```
 data-analysis-cli/
-│── main2.py
-│── grafik_umur.png
-│── grafik_kota.png
+│── main.py
+│── grafik-umur.png
+│── grafik-kota.png
 │── README.md
 ```
 
