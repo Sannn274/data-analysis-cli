@@ -29,7 +29,8 @@ Dari data yang dianalisis:
 
 ## 📈 Visualisasi
 
-[Grafik Kota](Grafik kota.png)
+[Grafik Kota](GrafikKota.png)
+[Grafik Umur](GrafikUmur.png)
 
 ## 🎯 Tujuan Project
 
