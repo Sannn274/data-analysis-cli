@@ -42,11 +42,11 @@ This project was built to simulate a simple data analysis workflow:
 
 ### Age Distribution
 
-![Age Distribution](grafik_umur.png)
+![Age Distribution](GrafikUmur.png)
 
 ### City Distribution
 
-![City Distribution](grafik_kota.png)
+![City Distribution](GrafikKota.png)
 
 ---
 
